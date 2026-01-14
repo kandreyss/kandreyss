@@ -1,6 +1,6 @@
-# Андрей Калашников (kandreyss) 🚀
+# Андрей Калашников
 **Trainee / Junior C++ & Python Developer**  
-📍 Санкт-Петербург — готов к релокации / удалённая работа
+📍 Санкт-Петербург, удалённая работа
 
 - ✉️ Email: andrejkalasnikov296@gmail.com  
 - 💬 Telegram: [@kandreyss](https://t.me/kandreyss)  
